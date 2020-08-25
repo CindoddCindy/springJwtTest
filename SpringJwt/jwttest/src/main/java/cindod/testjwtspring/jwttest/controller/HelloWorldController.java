@@ -1,4 +1,4 @@
-package cindod.testjwtspring.jwttest;
+package cindod.testjwtspring.jwttest.controller;
 
 
 import org.springframework.web.bind.annotation.RequestMapping;
